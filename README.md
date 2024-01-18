@@ -1,6 +1,6 @@
 # Color Palette Generator
 
-This JavaScript-based Color Palette Generator is designed to dynamically create and display a set of colors with their corresponding hex codes. The palette is generated based on a primary color, and users can interact with the generated colors by copying the hex code to their clipboard.
+This JavaScript-based Color Palette Generator is designed to dynamically create and display a set of colors with their corresponding hex codes. The palette is generated based on a primary color, and users can interact with the generated colors by copying the hsl code to their clipboard.
 
 # Key Features:
 1. ## Color Class:
